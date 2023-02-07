@@ -1,4 +1,4 @@
-# resume
+# Resume
 
 ## Teste de texto para o Github pages
 
